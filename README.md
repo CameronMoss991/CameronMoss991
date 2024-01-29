@@ -8,5 +8,3 @@
 CameronMoss991/CameronMoss991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-A semester project I did for cs 234 at SIUE
-![website](https://github.com/CameronMoss991/CameronMoss991/assets/125421489/881902bd-f302-4794-bee9-697ed5b8b6c3)
